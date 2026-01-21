@@ -4,7 +4,7 @@ Langkah utama untuk menyiapkan Sistem Portal Berita menggunakan dasar PHP MySQL.
 
 # fitur fitur yang tersedia
 
-- Portal Berita
+- Portal Berita (web)
 - Sorot Posting
 - Bagian Kategori
 - Posting Tunggal
