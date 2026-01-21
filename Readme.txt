@@ -35,6 +35,6 @@ Langkah utama untuk menyiapkan Sistem Portal Berita menggunakan dasar PHP MySQL.
 
 # Info tambahan
 
-Database	: livenews
+Database	: livenews    
 Nama Pengguna	: admin
 Kata Sandi	: aoaoa56
