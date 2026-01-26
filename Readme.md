@@ -30,7 +30,7 @@ Langkah utama untuk menyiapkan Sistem Portal Berita menggunakan dasar PHP MySQL.
 5. Lalu, buka URL “http://localhost/phpmyadmin“.
 6. Buat Databse dengan nama "livenews".
 7. Klik tab “Import” dan pilih berkas basis data (.sql) yang tersedia di bawah folder dengan nama “livenews”.
-8. Setelah menyiapkan semua ini, buka URL “http://localhost/winnicode1/index.php“
+8. Setelah menyiapkan semua ini, buka URL “http://localhost/winnicode1/index.php“.
 9. Semua detail login tersedia di dalam folder proyek, periksa dan masukkan untuk menggunakannya.
 
 # Info tambahan
